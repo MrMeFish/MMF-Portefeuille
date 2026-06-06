@@ -1,0 +1,4 @@
+[settings]
+project_name = "MMF-Portefeuille"
+
+echo "MMF-Portefeuille" > .wakatime-project
